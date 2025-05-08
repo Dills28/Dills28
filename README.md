@@ -1,4 +1,4 @@
-## Hello! I'm Adillah Ajjauzaqi 👋
+## Selamat Datang di Github Saya 👋
 
 ![Adillah Ajjjauzaqi](img/github-header-image.png)
 
@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About Me
+Hallo, nama saya Adillah Ajjauzaqi asal saya dari Jakarta, saya saat ini sedang berkuliah di Universitas Lampung jurusan Teknik Sipil, saya membuat akun ini karena tertarik ingin belajar pemrograman 
+
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,html,css,js,py&theme=light)](https://skillicons.dev)
+
+#### Connect With Me
+![https://instagram.com/adillah_ajjauzaqi](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/adillah-ajjauzaqi/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZocXdsdTQ0aDJiaXN1NDU4d2V6aHp0MDc0eXdqZmlsbGJuanJuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
-
-Hallo, nama saya Adillah Ajjauzaqi asal saya dari Jakarta, saya saat ini sedang berkuliah di Universitas Lampung jurusan Teknik Sipil, saya membuat akun ini karena tertarik ingin belajar pemrograman 
