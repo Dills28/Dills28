@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hallo, nama saya Adillah Ajjauzaqi asal saya dari Jakarta, saya saat ini sedang berkuliah di Universitas Lampung jurusan Teknik Sipil, saya membuat akun ini karena tertarik ingin belajar pemrograman 
 
 #### Skills
-![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,html,css,js,photoshoppy&theme=light)
+![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,photoshop,html,css,js,py&theme=light)
 
 #### Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adillah_ajjauzaqi) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adillah-ajjauzaqi-14978617b/)
