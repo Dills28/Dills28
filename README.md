@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! I'm Adillah Ajjauzaqi 👋
+
+![Adillah Ajjjauzaqi](img/github-header-image.png)
 
 <!--
 **Dills28/Dills28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZocXdsdTQ0aDJiaXN1NDU4d2V6aHp0MDc0eXdqZmlsbGJuanJuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
+
+Hallo, nama saya Adillah Ajjauzaqi asal saya dari Jakarta, saya saat ini sedang berkuliah di Universitas Lampung jurusan Teknik Sipil, saya membuat akun ini karena tertarik ingin belajar pemrograman 
